@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "si24r1.h": "c",
+        "system.h": "c",
+        "main.h": "c",
+        "so3_controller.h": "c",
+        "simple_math.h": "c",
+        "ahrs_dcm.h": "c",
+        "math.h": "c",
+        "type_traits": "c",
+        "cmath": "c",
+        "qmc5883l.h": "c",
+        "stdint.h": "c",
+        "spl06.h": "c",
+        "stm32_i2c_driver.h": "c",
+        "limits": "c",
+        "stdbool.h": "c",
+        "param.h": "c",
+        "spi.h": "c",
+        "butter.h": "c",
+        "dshot.h": "c",
+        "mixer.h": "c"
+    }
+}
